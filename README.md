@@ -24,4 +24,9 @@ errorlog("Test") # [--:--:--] [ERROR] Test
 fatallog("Test") # [--:--:--] [FATAL] Test
 ```
 NOTE : This Logger is use datetime moduel.
+
+example : 
+![alt text]({10912B62-C30A-447E-B11E-895C913CCCAF}.png)
+![alt text]({C83BF156-BD26-4F48-B0E7-C93C27F6F92E}.png)
+
 enjoy!
